@@ -12,7 +12,7 @@ Global Trends in Mental Health Disorder dataset (2017) sourced from Kaggle/Our W
 - DBSCAN noise detection
 
 ## How to Run
-Visit the live app: [(https://zohairmuqeemproject-unsupervisedlearning.streamlit.app/)]
+Visit the live app: [(https://zohair-muqeem-clustering-analysis-gjolv4b77bsecplmg6jxqh.streamlit.app/)]
 
 ## Authors
 - Zohair Muqeem
